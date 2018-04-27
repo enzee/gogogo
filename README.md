@@ -1,0 +1,2 @@
+# gogogo
+golang learning exercise
